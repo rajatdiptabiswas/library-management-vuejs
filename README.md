@@ -67,7 +67,7 @@ See also the list of [contributors](https://github.com/rajatdiptabiswas/library-
 
 
 
-## Acknowledgments
+## Acknowledgements
 
 * [Vue.js Documentations](https://vuejs.org/v2/guide/)
 * [Vuetify Documentations](https://vuetifyjs.com/en/getting-started/quick-start)
